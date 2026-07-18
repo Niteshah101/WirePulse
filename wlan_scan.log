@@ -1,0 +1,7 @@
+Listening on wlan0
+[+] Scanning for ARP poisioning..
+[+] Scanning for Active port scan..
+
+[2026-07-18 09:47:29][!!] Potential active port scanning found from [192.168.4.25]
+[2026-07-18 09:48:22][!!] Potential ARP poisioning found for [192.168.4.49] from [aa:bb:cc:dd:ee:fd]
+Clossing Socket
