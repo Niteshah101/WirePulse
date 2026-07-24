@@ -38,10 +38,10 @@ class NetworkScanEngine:
 
 def env_check():
     if os.getuid() != 0:
-        print("Root Acess required!!")
+        print("Root Access required!!")
         sys.exit(1)
     if len(sys.argv) < 2:
-        print(f"Usa example: python3 {sys.argv[0].split("/")[-1]} [interface]")
+        print(f"Use example: python3 {sys.argv[0].split("/")[-1]} [interface]")
         sys.exit(1)
 
 
