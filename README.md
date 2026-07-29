@@ -82,3 +82,4 @@ Clossing Socket
 * [ ] **High-Speed Ingestion Optimization:** Integrate native `ctypes` mappings or memory-mapped socket ring buffers (`PACKET_MMAP`) to increase throughput performance past 10,000 requests per second.
 * [ ] **Layer 3 Volumetric Defense:** Implement automated sliding-window velocity metrics to detect ICMP Smurf Attacks targeting broadcast boundaries.
 * [ ] **Automated Forensics Output:** Integrate a PCAP logging mechanism to stream flagged frames straight into Wireshark-compatible files for validation.
+- new readme file
